@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-### We are Sirimongkol Team
+![](https://raw.githubusercontent.com/Sirimongkol/sirimongkol.github.io/main/docs/img/srmk_cover.png)
 
-*Coming soon...*
+### We are Sirimongkol Team
+[*Coming soon...*](https://sirimongkol.github.io/)
 
 <!--
 
